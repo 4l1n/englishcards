@@ -1,19 +1,32 @@
 {
   "files": {
-    "main.js": "/englishcards/static/js/main.781ac18e.chunk.js",
-    "main.js.map": "/englishcards/static/js/main.781ac18e.chunk.js.map",
+    "main.js": "/englishcards/static/js/main.fc0b9ec5.chunk.js",
+    "main.js.map": "/englishcards/static/js/main.fc0b9ec5.chunk.js.map",
     "runtime-main.js": "/englishcards/static/js/runtime-main.668e2d72.js",
     "runtime-main.js.map": "/englishcards/static/js/runtime-main.668e2d72.js.map",
-    "static/js/2.b3d81c12.chunk.js": "/englishcards/static/js/2.b3d81c12.chunk.js",
-    "static/js/2.b3d81c12.chunk.js.map": "/englishcards/static/js/2.b3d81c12.chunk.js.map",
+    "static/js/2.e5ebe700.chunk.js": "/englishcards/static/js/2.e5ebe700.chunk.js",
+    "static/js/2.e5ebe700.chunk.js.map": "/englishcards/static/js/2.e5ebe700.chunk.js.map",
     "index.html": "/englishcards/index.html",
-    "precache-manifest.c1d6481a6fe22b2d444a96c5d5fc0380.js": "/englishcards/precache-manifest.c1d6481a6fe22b2d444a96c5d5fc0380.js",
+    "precache-manifest.bcef8d58bcdfae2703327c8e0473f7ba.js": "/englishcards/precache-manifest.bcef8d58bcdfae2703327c8e0473f7ba.js",
     "service-worker.js": "/englishcards/service-worker.js",
-    "static/js/2.b3d81c12.chunk.js.LICENSE": "/englishcards/static/js/2.b3d81c12.chunk.js.LICENSE"
+    "static/js/2.e5ebe700.chunk.js.LICENSE": "/englishcards/static/js/2.e5ebe700.chunk.js.LICENSE",
+    "static/media/carta10color.jpg": "/englishcards/static/media/carta10color.e22771f8.jpg",
+    "static/media/carta11color.jpg": "/englishcards/static/media/carta11color.e5e5a90d.jpg",
+    "static/media/carta12color.jpg": "/englishcards/static/media/carta12color.f815db31.jpg",
+    "static/media/carta1color.jpg": "/englishcards/static/media/carta1color.bd1051bc.jpg",
+    "static/media/carta2color.jpg": "/englishcards/static/media/carta2color.6cd18c90.jpg",
+    "static/media/carta3color.jpg": "/englishcards/static/media/carta3color.55a95187.jpg",
+    "static/media/carta4color.jpg": "/englishcards/static/media/carta4color.8984da76.jpg",
+    "static/media/carta5color.jpg": "/englishcards/static/media/carta5color.e48aeca2.jpg",
+    "static/media/carta6color.jpg": "/englishcards/static/media/carta6color.80644049.jpg",
+    "static/media/carta7color.jpg": "/englishcards/static/media/carta7color.8046e1c1.jpg",
+    "static/media/carta8color.jpg": "/englishcards/static/media/carta8color.a781a289.jpg",
+    "static/media/carta9color.jpg": "/englishcards/static/media/carta9color.a92eb66a.jpg",
+    "static/media/logo.png": "/englishcards/static/media/logo.be9fdf25.png"
   },
   "entrypoints": [
     "static/js/runtime-main.668e2d72.js",
-    "static/js/2.b3d81c12.chunk.js",
-    "static/js/main.781ac18e.chunk.js"
+    "static/js/2.e5ebe700.chunk.js",
+    "static/js/main.fc0b9ec5.chunk.js"
   ]
 }
