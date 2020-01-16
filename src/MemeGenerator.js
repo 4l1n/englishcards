@@ -1,4 +1,16 @@
 import React, {Component} from "react"
+import carta1color from './cartas/carta1color.jpg';
+import carta2color from './cartas/carta2color.jpg';
+import carta3color from './cartas/carta3color.jpg';
+import carta4color from './cartas/carta4color.jpg';
+import carta5color from './cartas/carta5color.jpg';
+import carta6color from './cartas/carta6color.jpg';
+import carta7color from './cartas/carta7color.jpg';
+import carta8color from './cartas/carta8color.jpg';
+import carta9color from './cartas/carta9color.jpg';
+import carta10color from './cartas/carta10color.jpg';
+import carta11color from './cartas/carta11color.jpg';
+import carta12color from './cartas/carta12color.jpg';
 
 class MemeGenerator extends Component {
     constructor() {
@@ -6,14 +18,14 @@ class MemeGenerator extends Component {
         this.state = {
             topText: "",
             bottomText: "",
-            randomImg: "http://i.imgflip.com/1bij.jpg",
+            randomImg: <img src={carta1color} className="Carta1" alt="Carta1Color" />,
             allMemeImgs: []
         }
         this.handleChange = this.handleChange.bind(this)
     }
     
     componentDidMount() {
-        fetch("https://api.imgflip.com/get_memes")
+        fetch(<img src={carta1color} className="App-logo" alt="logo" />)
             .then(response => response.json())
             .then(response => {
                 const {memes} = response.data

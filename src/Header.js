@@ -1,12 +1,9 @@
 import React from "react"
-
+import logo from './cartas/logo.png';
 function Header() {
     return (
         <header>
-            <img 
-                src="http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png" 
-                alt="Problem?"
-            />
+            <img src={logo} className="App-logo" alt="logo" />
             <p>English Cards</p>
         </header>
     )
