@@ -1,12 +1,14 @@
 import React from "react"
 import Header from "./Header"
-import MemeGenerator from "./MemeGenerator"
+import EnglishCards from "./EnglishCards"
+import Tabs from "./Tabs"
+
 
 function App() {
     return (
         <div>
             <Header />
-            <MemeGenerator />
+            <EnglishCards />
         </div>
     )
 }
