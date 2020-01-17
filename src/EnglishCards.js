@@ -9,7 +9,7 @@ class EnglishCards extends Component {
         this.state = {
             topText: "",
             bottomText: "",
-            randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta1color.jpg?raw=true",
+            randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/736a39fc5f473f067ab5fa140c4cde399ed89197/src/cartas/carta1color.svg",
             allMemeImgs: []
         }
         this.handleChange = this.handleChange.bind(this)
@@ -43,7 +43,7 @@ class EnglishCards extends Component {
 
     carta1(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta1color.jpg?raw=true" })
+        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta1color.svg" })
     }
     carta2(event){
         event.preventDefault()
