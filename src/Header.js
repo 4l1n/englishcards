@@ -1,5 +1,5 @@
 import React from "react"
-import logo from './cartas/logo.png';
+import logo from './cartas/logo.webp';
 function Header() {
     return (
         <header>

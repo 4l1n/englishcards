@@ -9,7 +9,7 @@ class EnglishCards extends Component {
         this.state = {
             topText: "",
             bottomText: "",
-            randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/736a39fc5f473f067ab5fa140c4cde399ed89197/src/cartas/carta1color.svg",
+            randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta1color.webp",
             allMemeImgs: []
         }
         this.handleChange = this.handleChange.bind(this)
@@ -43,51 +43,51 @@ class EnglishCards extends Component {
 
     carta1(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta1color.svg" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta1color.webp" })
     }
     carta2(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta2color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta2color.webp" })
     }
     carta3(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta3color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta3color.webp" })
     }
     carta4(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta4color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta4color.webp" })
     }
     carta5(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta5color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta5color.webp" })
     }
     carta6(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta6color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta6color.webp" })
     }
     carta7(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta7color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta7color.webp" })
     }
     carta8(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta8color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta8color.webp" })
     }
     carta9(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta9color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta9color.webp" })
     }
     carta10(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta10color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta10color.webp" })
     }
     carta11(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta11color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta11color.webp" })
     }
     carta12(event){
         event.preventDefault()
-        this.setState({ randomImg: "https://github.com/4l1n/englishcards/blob/master/src/cartas/carta12color.jpg?raw=true" })
+        this.setState({ randomImg: "https://raw.githubusercontent.com/4l1n/englishcards/master/src/cartas/carta12color.webp" })
     }
 
     render() {
