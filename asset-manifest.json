@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/englishcards/static/js/main.f5a5838e.chunk.js",
-    "main.js.map": "/englishcards/static/js/main.f5a5838e.chunk.js.map",
+    "main.js": "/englishcards/static/js/main.19073971.chunk.js",
+    "main.js.map": "/englishcards/static/js/main.19073971.chunk.js.map",
     "runtime-main.js": "/englishcards/static/js/runtime-main.668e2d72.js",
     "runtime-main.js.map": "/englishcards/static/js/runtime-main.668e2d72.js.map",
     "static/js/2.f4c3f08c.chunk.js": "/englishcards/static/js/2.f4c3f08c.chunk.js",
     "static/js/2.f4c3f08c.chunk.js.map": "/englishcards/static/js/2.f4c3f08c.chunk.js.map",
     "index.html": "/englishcards/index.html",
-    "precache-manifest.dfc8fff647a73561ab1f1f199e591a17.js": "/englishcards/precache-manifest.dfc8fff647a73561ab1f1f199e591a17.js",
+    "precache-manifest.4b1e3abf68d8546a0cee0d529c64f347.js": "/englishcards/precache-manifest.4b1e3abf68d8546a0cee0d529c64f347.js",
     "service-worker.js": "/englishcards/service-worker.js",
     "static/js/2.f4c3f08c.chunk.js.LICENSE": "/englishcards/static/js/2.f4c3f08c.chunk.js.LICENSE",
-    "static/media/logo.png": "/englishcards/static/media/logo.be9fdf25.png"
+    "static/media/logo.webp": "/englishcards/static/media/logo.05f3b38e.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.668e2d72.js",
     "static/js/2.f4c3f08c.chunk.js",
-    "static/js/main.f5a5838e.chunk.js"
+    "static/js/main.19073971.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71fd4ea22c5a590459d82fa30c7bdc41",
+    "revision": "a89ff00dc61adaaa36261974e48e7816",
     "url": "/englishcards/index.html"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/englishcards/static/js/2.f4c3f08c.chunk.js.LICENSE"
   },
   {
-    "revision": "20295af08e269fa07832",
-    "url": "/englishcards/static/js/main.f5a5838e.chunk.js"
+    "revision": "122776eabccbbe368c77",
+    "url": "/englishcards/static/js/main.19073971.chunk.js"
   },
   {
     "revision": "911420e6d2dcefb78717",
     "url": "/englishcards/static/js/runtime-main.668e2d72.js"
   },
   {
-    "revision": "be9fdf25c8924155ee3b60bfa1041767",
-    "url": "/englishcards/static/media/logo.be9fdf25.png"
+    "revision": "05f3b38e0483a0bae0ee0a0433b2f906",
+    "url": "/englishcards/static/media/logo.05f3b38e.webp"
   }
 ]);
